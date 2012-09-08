@@ -1,0 +1,8 @@
+{
+  "name":"cryptopp",
+  "version": "0.0.1",
+  "dependencies": [
+    "bindings",
+    "v8-profiler"
+  ]
+}
