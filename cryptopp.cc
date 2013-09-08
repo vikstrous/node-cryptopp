@@ -3,13 +3,13 @@
 #include <string>
 #include <iostream>
 #include "node_buffer.h"
-#include "cryptopp/sha.h"
-#include "cryptopp/tiger.h"
-#include "cryptopp/ripemd.h"
-#include "cryptopp/whrlpool.h"
-#include "cryptopp/md2.h"
-#include "cryptopp/md4.h"
-#include "cryptopp/md5.h"
+#include <cryptopp/sha.h>
+#include <cryptopp/tiger.h>
+#include <cryptopp/ripemd.h>
+#include <cryptopp/whrlpool.h>
+#include <cryptopp/md2.h>
+#include <cryptopp/md4.h>
+#include <cryptopp/md5.h>
 
 using namespace node;
 using namespace v8;
